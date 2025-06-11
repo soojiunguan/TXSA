@@ -1,2 +1,3 @@
-# TXSA
-Spam detection models (using MNB, SVM, RF, GBM)
+# Abstract
+This project presents a comprehensive study on natural language processing (NLP) techniques and spam message classification. Part A explores foundational NLP tasks including tokenization, stop word and punctuation filtering, stemming, POS tagging, and syntactic parsing using Python libraries such as NLTK, TextBlob, and regex. Part B focuses on spam detection using a labeled SMS dataset from Kaggle. Multiple machine learning models—Multinomial Naïve Bayes, Support Vector Machine, Random Forest, and Gradient Boosting—were built, tuned, and evaluated using metrics such as accuracy, precision, recall, and F1-score. Exploratory data analysis, preprocessing, and class balancing (via SMOTE) were also conducted. Results demonstrate the effectiveness of SVM and GBM after hyperparameter tuning, achieving over 92% accuracy, making them suitable for spam detection in real-world applications.
+
